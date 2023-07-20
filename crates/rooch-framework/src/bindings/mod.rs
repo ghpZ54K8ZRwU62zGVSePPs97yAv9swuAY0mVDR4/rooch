@@ -5,4 +5,5 @@ pub mod address_mapping;
 pub mod auth_validator;
 pub mod ed25519_validator;
 pub mod empty;
+pub mod schnorr_validator;
 pub mod transaction_validator;

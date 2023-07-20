@@ -3,4 +3,5 @@
 
 mod ed25519_validator_tests;
 mod empty_tests;
+mod schnorr_validator_tests;
 mod transaction_validator_tests;
